@@ -1,0 +1,10 @@
+Respostas Avaliação
+1 - d
+2 - b
+3 - a
+4 - a
+5 - d
+6 - Eu acrescentei um grid com os clientes cadastrados para poder visualizar 
+melhor, porém, eu tenho consciencia de que qnd solicitado uma determina tarefa
+não se deve fazer nada além, mas como é para avaliação achei valido adicionar 
+este recurso.
